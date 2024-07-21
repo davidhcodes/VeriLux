@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@axelar-network/axelar-cgp-solidity": "^6.2.1",
+    "@axelar-network/axelarjs-sdk": "^0.12.8",
+    "@openzeppelin/contracts": "^4.7.0",
+    "hardhat": "^2.9.9"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2"
+  }
+}
